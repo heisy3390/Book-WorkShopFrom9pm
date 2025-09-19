@@ -6,8 +6,15 @@
 ==== 第2章 吉田さん / @Soil
 吉田さんの紹介
 
-==== 第3章 逆井さん / @???
-逆井さんの紹介
+==== 第3章 Masayuki SAKASAI / @___sakasama___
+
+ * 職業：Webエンジニア
+ * GitHub：@<href>{https://github.com/sakasa}
+ * SNS：
+ ** @<href>{https://x.com/___sakasama___, X：@___sakasama___}
+ ** @<href>{https://www.instagram.com/_pickleees/, Instagram：_pickleees}
+ ** @<href>{https://bsky.app/profile/pickleees.bsky.social, Bluesky：@pickleees.bsky.social}
+ * @<href>{https://linktr.ee/___sakasama___}
 
 ==== 第4章 笹倉 / @heisy
 笹倉の紹介
