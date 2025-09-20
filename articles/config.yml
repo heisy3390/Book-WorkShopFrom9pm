@@ -22,7 +22,7 @@ bookname: WorkshopFrom9pm
 language: ja
 
 # 書名
-booktitle: {name: "21時からのワークショップの本", file-as: "ニジュウイチジカラノワークショップノホン"}
+booktitle: {name: "21時からの勉強会　その１", file-as: "ニジュウイチジカラノベンキョウカイ　ソノイチ"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "加藤さん, 吉田さん, 逆井さん, 笹倉", file-as: "カトウ, ヨシダ, サカサイ, ササクラ"}]
@@ -56,7 +56,7 @@ edt: ["加藤さん, 吉田さん, 逆井さん,笹倉"]
 # a-oth, oth: その他
 # a-pht, pht: 撮影責任者
 # a-pbl, pbl: 出版社（発行所）
-pbl: 21時からのワークショップ（仮）
+pbl: 21時からの勉強会
 # a-prt, prt: 印刷所
 # prt: TechBooster
 # a-red, red: 項目の枠組起草者
@@ -77,7 +77,7 @@ date: 2025-11-16
 history: [["2025-11-16 初版 v1.0.0"]]
 # 権利表記(配列で複数指定可)
 # rights: (C) 2016 Re:VIEW Developers
-rights: (C) 2025 21時からのワークショップ会（仮）
+rights: (C) 2025 21時からの勉強会
 # description: 説明
 # subject: 短い説明用タグ(配列で複数指定可)
 # type: 書籍のカテゴリーなど(配列で複数指定可)

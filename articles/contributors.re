@@ -16,5 +16,8 @@
  ** @<href>{https://bsky.app/profile/pickleees.bsky.social, Bluesky：@pickleees.bsky.social}
  * @<href>{https://linktr.ee/___sakasama___}
 
-==== 第4章 笹倉 / @heisy
-笹倉の紹介
+==== 第4章 へー（SASAKURA Hideyuki）/ @heisy
+ * クライミング・ボルダリングを愛するITエンジニア
+ ** いろんなところで登ってるので、是非お声がけください！
+ * らぶAWS
+ * GitHub：@<href>{https://x.com/heisy}
