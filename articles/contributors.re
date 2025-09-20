@@ -20,4 +20,6 @@
  * クライミング・ボルダリングを愛するITエンジニア
  ** いろんなところで登ってるので、是非お声がけください！
  * らぶAWS
- * GitHub：@<href>{https://x.com/heisy}
+ * GitHub：@<href>{https://github.com/heisy3390}
+ * SNS：
+ ** @<href>{https://x.com/heisy, X：@heisy}
