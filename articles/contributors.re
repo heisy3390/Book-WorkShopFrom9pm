@@ -1,7 +1,15 @@
 = 著者紹介
 
-==== 第1章 加藤さん / @Katot46
-加藤さんの紹介
+==== 第1章 Takami Touka / @Takat46
+*   職業：ABAP屋さん
+ **    SAP一筋もうすぐ30年
+ **    担当モジュールは主にFI・CRM
+ **    コーディング、カスタマイズ、コンサルティングなんでもやります／やれます
+
+ * SNS：
+ ** @<href>{https://www.instagram.com/cato_lux/, Instagram：cato_lux}
+ ** @<href>{https://x.com/takat46, X：@takat46}
+
 
 ==== 第2章 吉田さん / @Soil
 吉田さんの紹介
