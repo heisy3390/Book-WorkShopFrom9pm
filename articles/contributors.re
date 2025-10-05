@@ -1,10 +1,11 @@
 = 著者紹介
 
 ==== 第1章 Takami Touka / @Takat46
-*   職業：ABAP屋さん
- **    SAP一筋もうすぐ30年
- **    担当モジュールは主にFI・CRM
- **    コーディング、カスタマイズ、コンサルティングなんでもやります／やれます
+
+ * 職業：ABAP屋さん
+ ** SAP一筋もうすぐ30年
+ ** 担当モジュールは主にFI・CRM
+ ** コーディング、カスタマイズ、コンサルティングなんでもやります／やれます
 
  * SNS：
  ** @<href>{https://www.instagram.com/cato_lux/, Instagram：cato_lux}
