@@ -70,9 +70,9 @@ CANON も NIKON も随分前から発売していた天体用カメラが漸く 
 //table[tbl-1][主なスマート望遠鏡]{
 メーカー    名称    発売年/月   センサ  Amazon価格
 --------------------------------------------
-Vaonis  Vespera II      2024/03 IMX585   298,000円
-ZWO Seestar S30 2025/02 IMX662 75,000
-DWAFLAB DWARF3　2024/07 IMX678　79,999
+Vaonis	Vespera II	2024/03	IMX585	298,000
+ZWO	Seestar S30	2025/02 IMX662	75,000
+DWAFLAB	DWARF3	2024/07 IMX678	79,999
 //}
 ※ Amazon価格は2025/9/27筆者調べ
 
