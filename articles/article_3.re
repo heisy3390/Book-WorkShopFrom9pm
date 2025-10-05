@@ -252,7 +252,7 @@ ChatGPTプロジェクトの指示内容、
 ===[/column]
 
 
-//image[sakasa-1-2][秋葉原][scale=1.0]{
+//image[sakasa-1-2][秋葉原][scale=0.9]{
 //}
 
 //blankline
@@ -403,7 +403,7 @@ ChatGPTプロジェクトの指示内容、
 ===[/column]
 
 
-//image[sakasa-2-2][*( ´･ω･`)][scale=1.0]{
+//image[sakasa-2-2][*( ´･ω･`)][scale=0.9]{
 //}
 
 //blankline
@@ -573,7 +573,7 @@ $User の入力
 ===[/column]
 
 
-//image[sakasa-3-2][Eclipse Silence][scale=1.0]{
+//image[sakasa-3-2][Eclipse Silence][scale=0.9]{
 //}
 
 //blankline
