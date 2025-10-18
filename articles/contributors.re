@@ -11,8 +11,12 @@
  ** @<href>{https://www.instagram.com/cato_lux/, Instagram：cato_lux}
  ** @<href>{https://x.com/takat46, X：@takat46}
 
-==== 第2章 吉田さん / @Soil
-吉田さんの紹介
+==== 第2章 そいる / @sh_yoshida
+
+ * 職業：Scrum Master/Developer
+ * GitHub：@<href>{https://github.com/121jigowatts}
+ * Service：
+ ** 雑談お題ルーレット：@<href>{https://smalltalk.vercel.app/}
 
 ==== 第3章 Masayuki SAKASAI / @___sakasama___
 
