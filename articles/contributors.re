@@ -6,7 +6,6 @@
  ** SAP一筋もうすぐ30年
  ** 担当モジュールは主にFI・CRM
  ** コーディング、カスタマイズ、コンサルティングなんでもやります／やれます
- 
  * SNS：
  ** @<href>{https://www.instagram.com/cato_lux/, Instagram：cato_lux}
  ** @<href>{https://x.com/takat46, X：@takat46}
