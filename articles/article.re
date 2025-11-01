@@ -86,7 +86,7 @@ DWAFLAB	DWARF3	2024/07	IMX678	79,999
 ※ Amazon価格は2025/9/27筆者調べ
 //}
 
-//image[takat-1-2][スマート望遠鏡イメージ図][scale=50%]{
+//image[takat-1-2][スマート望遠鏡イメージ図][scale=0.5]{
 //}
 
 === 「スマート望遠鏡」はどの辺がスマート？
@@ -154,7 +154,7 @@ Raspberry Pi を使う。ラズパイを使わなかったらタイトルに偽�
 
 //image[takat-1-7][HQ Camera][scale=0.5]{
 //}
-//image[takat-1-8][外されたIRカットフィルター][scale=50%]{
+//image[takat-1-8][外されたIRカットフィルター][scale=0.5]{
 //}
 
 === HQ Camera のセンサは SONY の IMX477R
@@ -170,7 +170,7 @@ OS は素直に Raspberry Pi OS を素直に使う。(昔は Raspbian と呼ん�
 == 組み立てる
 
 カメラとRaspberry Piを接続したら完成。@<br>{}
-//image[takat-1-9][Raspberry Pi 4 + HQ Camera][scale=50%]{
+//image[takat-1-9][Raspberry Pi 4 + HQ Camera][scale=0.5]{
 //}
 
 ただ、写真を撮るだけであれば、Raspberry Pi とカメラを接続するだけで良い。@<br>{}
@@ -186,7 +186,7 @@ OS は素直に Raspberry Pi OS を素直に使う。(昔は Raspbian と呼ん�
 //}
 
 世界が終末に近付いている!!ということではなく、IRフィルターがないカメラの映像。見事に赤い。
-\\clearpage
+@<embed>{|latex|\clearpage}
 続いて撮影
 //emlist{
   > ~$ rpicam-still --width 1920 --height 1080 -o test.jpg
@@ -245,7 +245,7 @@ bookworm(latest)	rpicam-
 
 …と、ここで時間切れ。@<br>{}
 もっと「スマート望遠鏡」と呼べるようになるまで、改良と試行錯誤を続けていきたい。@<br>{}
-\\clearpage
+@<embed>{|latex|\clearpage}
 == Appendix 1
 
 === かんむり座T星どうなった？
@@ -285,7 +285,7 @@ bookworm(latest)	rpicam-
 
 //image[takat-1-15][10月21日の超希望的観測イメージ図][scale=1.0]{
 //}
-\\clearpage
+@<embed>{|latex|\clearpage}
 == Next to do
 
 === 『Raspberry Pi 天体観測』として次にやりたいこと
