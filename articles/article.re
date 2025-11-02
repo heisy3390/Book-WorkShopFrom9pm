@@ -246,6 +246,7 @@ bookworm(latest)	rpicam-
 …と、ここで時間切れ。@<br>{}
 もっと「スマート望遠鏡」と呼べるようになるまで、改良と試行錯誤を続けていきたい。@<br>{}
 @<embed>{|latex|\clearpage}
+
 == Appendix 1
 
 === かんむり座T星どうなった？
@@ -286,6 +287,7 @@ bookworm(latest)	rpicam-
 //image[takat-1-15][10月21日の超希望的観測イメージ図][scale=1.0]{
 //}
 @<embed>{|latex|\clearpage}
+
 == Next to do
 
 === 『Raspberry Pi 天体観測』として次にやりたいこと
