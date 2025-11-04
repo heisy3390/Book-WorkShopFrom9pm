@@ -67,7 +67,7 @@ Canon も Nikon も随分前から発売していた天体用カメラが漸く 
 
 (かつての)自社のハイエンド機とは言え、2世代前のカメラ、もう少し値段設定なんとかなりませんでしたか??
  
-年に数回使うか使わないかの天体専用カメラに、躊躇せず32万出せる程、お大尽ではなかった…。@<br>{}
+年に数回使うか使わないかの天体専用カメラに、躊躇せず32万出せる程、お大尽ではなかった…。
 @<embed>{|latex|\clearpage}
 
 === スマート望遠鏡
@@ -142,7 +142,7 @@ DWAFLAB	DWARF3	2024/07	IMX678	 79,999
 
 自分で作ったスマート望遠鏡で宙を見れば良いのだ。騙されるも何も無い。何より「作ること」もまた娯楽。@<br>{}
 
-作ろう、スマート望遠鏡@<br>{}
+作ろう、スマート望遠鏡
 @<embed>{|latex|\clearpage}
 
 == スマート望遠鏡を作る
@@ -184,7 +184,7 @@ OS は素直に Raspberry Pi OS を素直に使う。@<br>{}
 //image[takat-1-9][Raspberry Pi 4 + HQ Camera][scale=0.6]{
 //}
 ただ、写真を撮るだけであれば、Raspberry Pi とカメラを接続するだけで良い。@<br>{}
-標準OSで撮影まで出来てしまう。@<br>{}
+標準OSで撮影まで出来てしまう。
 @<embed>{|latex|\clearpage}
 
 == 試撮
@@ -206,7 +206,7 @@ OS は素直に Raspberry Pi OS を素直に使う。@<br>{}
 //}
 //image[takat-1-12][同じ空をPixelで撮影][scale=0.8]{
 //}
-立体写真かな?@<br>{}
+立体写真かな?
 @<embed>{|latex|\clearpage}
 
 === 撮影コマンド
@@ -222,7 +222,7 @@ bulleseye	libcamera-
 bookworm(latest)	rpicam-
 //}
 
-基本的に libcamera- と書かれている記事は、rpicam- と読み替えればOK。@<br>{}
+基本的に libcamera- と書かれている記事は、rpicam- と読み替えればOK。
 @<embed>{|latex|\clearpage}
 
 === 夜空を撮る<<TEST>>
@@ -263,7 +263,7 @@ bookworm(latest)	rpicam-
 
 …と、ここで時間切れ…
 
-もっと「スマート望遠鏡」と呼べるようになるまで、改良と試行錯誤を続けていきたい。@<br>{}
+もっと「スマート望遠鏡」と呼べるようになるまで、改良と試行錯誤を続けていきたい。
 @<embed>{|latex|\clearpage}
 
 == Appendix 1
