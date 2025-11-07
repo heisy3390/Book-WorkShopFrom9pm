@@ -88,13 +88,10 @@ note@<fn>{002-1} 上に、生成した作品の内容・テーマごとに、マ
 
 ここからは、noteマガジンの一部を紹介します。
 //blankline
-//blankline
 
 ChatGPTプロジェクトの指示内容、
 生成時のAIとのやり取りの一部、
 公開しているマガジンの概要など。
-@<embed>{|latex|\clearpage}
-
 
 === お散歩シリーズ
 
@@ -108,7 +105,7 @@ ChatGPTプロジェクトの指示内容、
 
 ===[/column]
 
-//image[sakasa-1-1][木漏れ日 ~ Tokyo Girls ~][scale=1.0]{
+//image[sakasa-1-1][木漏れ日 ~ Tokyo Girls ~][scale=0.9]{
 //}
 @<embed>{|latex|\clearpage}
 

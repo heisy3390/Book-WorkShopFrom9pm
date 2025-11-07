@@ -27,6 +27,8 @@
  ** @<href>{https://bsky.app/profile/pickleees.bsky.social, Bluesky：@pickleees.bsky.social}
  * @<href>{https://linktr.ee/___sakasama___}
 
+@<embed>{|latex|\clearpage}
+
 ==== 第4章 へー（SASAKURA Hideyuki）/ @heisy
  * クライミング・ボルダリングを愛するITエンジニア
  ** いろんなところで登ってるので、是非お声がけください！

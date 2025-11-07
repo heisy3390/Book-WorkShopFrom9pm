@@ -192,7 +192,6 @@ Visual Studio CodeやAtom、IntelliJ IDEAなど優れたIDEの機能によって
  * 新しいAPIの使い方をAIに尋ね、素早く概要を掴む
 
 
-@<embed>{|latex|\clearpage}
 
 == おわりに：コードを読むことは、最高の学習法である
 速読術は単なる技術ではなく、より良い設計、より良いコードを書くための視点を養うプロセスです。
