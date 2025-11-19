@@ -36,3 +36,5 @@
  * GitHub：@<href>{https://github.com/heisy3390}
  * SNS：
  ** @<href>{https://x.com/heisy, X：@heisy}
+
+==== イラスト（表紙・裏表紙） 梨子
